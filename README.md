@@ -28,4 +28,4 @@
 
 🛍️ Happy Analyzing!
 
-For detailed problem statements, refer to the [Project Details PDF](link_to_project_pdf.pdf).
+
